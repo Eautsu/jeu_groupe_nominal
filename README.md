@@ -20,7 +20,7 @@ Le programme de français du cycle 2 (BO du 31 octobre 2024, en vigueur à la re
 
 Le jeu sert à **l'entraînement et au réinvestissement**, après une leçon structurée. Il ne sert pas à découvrir la notion.
 
----## 2. Règle du jeu (résumé)
+## 2. Règle du jeu (résumé)
 
 Le joueur pioche un **Joker**, choisit une carte **Défi** (4 à 16 points
 selon la difficulté), puis trie sur la table les cartes-mots qui répondent
