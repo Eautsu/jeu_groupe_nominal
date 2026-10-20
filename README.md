@@ -20,31 +20,19 @@ Le programme de français du cycle 2 (BO du 31 octobre 2024, en vigueur à la re
 
 Le jeu sert à **l'entraînement et au réinvestissement**, après une leçon structurée. Il ne sert pas à découvrir la notion.
 
----
+---## 2. Règle du jeu (résumé)
 
-## 2. Règle du jeu (résumé)
+Le joueur pioche un **Joker**, choisit une carte **Défi** (4 à 16 points
+selon la difficulté), puis trie sur la table les cartes-mots qui répondent
+à la consigne : *masculin*, *féminin*, *singulier*, *pluriel*, ou les deux
+dimensions à la fois. Il y a toujours des cartes valides et des
+distracteurs ; **2 erreurs ou 1 oubli** font perdre le défi, mais chaque
+carte valide trouvée rapporte 1 point de consolation.
 
-1. **Le contrat.** Le joueur pioche un Joker, puis choisit une carte Défi. Seuls les points sont visibles au recto. Il retourne la carte pour découvrir la consigne et le nombre de cartes.
-2. **Le corpus.** L'adversaire (dans la version en ligne, l'ordinateur) étale 6 ou 12 cartes-mots, côté texte. Il y a toujours au moins 2 cartes valides et au moins 2 distracteurs.
-3. **Le tri.** Le joueur retourne les cartes qu'il pense valides. Le dos de la carte donne la correction.
-4. **Les erreurs.** À la 1ʳᵉ erreur, le joueur continue. À la 2ᵉ, le défi est perdu.
-5. **L'omission.** Quand le joueur dit « J'ai fini », on vérifie la table. S'il reste une carte valide, le défi est perdu.
-6. **Les points.** Un défi réussi rapporte les points de la carte Défi (4, 6, 8 ou 16). Un défi perdu rapporte 1 point par carte valide trouvée.
-
-| Carte Défi | Consigne | Cartes |
-|---|---|---|
-| 4 points | une seule dimension : *masculin*, *féminin*, *singulier* ou *pluriel* | 6 |
-| 6 points | une seule dimension | 12 |
-| 8 points | genre et nombre : *masculin singulier*, *féminin pluriel*… | 6 |
-| 16 points | genre et nombre | 12 |
-
-**Les jokers** (4 sortes, 2 exemplaires de chacune) :
-- *Rejoue sans risque* : 3 vies au lieu de 2 ;
-- *Si tu réussis, tu doubles les points* ;
-- *Si tu te trompes une seule fois, le défi est perdu* ;
-- *Annule la dernière action* (une fois par défi).
-
-Chaque joueur joue 4 manches. Le joueur qui a le plus de points gagne.
+La version en ligne joue seule ou à plusieurs (1 à 4 joueurs), au TNI ou
+sur ordinateur : l'ordinateur pose les cartes, le journal de fin de partie
+liste les réussites, les erreurs et les oublis — utile pour la remédiation.
+La règle complète est dans l'outil (bouton Règle).
 
 ---
 
