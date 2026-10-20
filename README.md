@@ -6,7 +6,7 @@ Le jeu existe en deux versions qui suivent la même règle :
 - un jeu de cartes à imprimer (cartes-mots, cartes Défi, cartes Joker) ;
 - une version en ligne, `defi_groupe_nominal_github.html`, jouable au TNI ou sur un ordinateur, de 1 à 4 joueurs.
 
-**Jouer en ligne :** *(lien à compléter)*
+**Jouer en ligne :*(https://eautsu.github.io/jeu_groupe_nominal/)*
 
 ---
 
